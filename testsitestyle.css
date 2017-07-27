@@ -1,5 +1,13 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab" rel="stylesheet">
 
+body {
+  background-color: #F3F3EF
+}
+
+#head {
+  background-color: #28869B;
+}
+
 h1 {
   font-family: Roboto Slab, Roboto, serif;
 }
