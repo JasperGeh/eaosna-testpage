@@ -5,6 +5,13 @@ body {
   text-align: center;
 }
 
+.section {
+  background-color: #F3F3EF;
+  text-align: center;
+  padding: 15px;
+  border-radius: 5px;
+}
+
 .tuerkis {
   background-color: #28869B;
 }
