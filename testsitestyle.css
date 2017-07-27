@@ -1,62 +1,65 @@
-<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab" rel="stylesheet">
-
-body {
+<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab" rel="stylesheet"
+  > body {
   background-color: #F3F3EF;
   text-align: center;
+}
+
+hr {
+  color: white;
+  border-width: 0px;
 }
 
 .section {
   background-color: #F3F3EF;
   text-align: center;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .tuerkis {
   background-color: #28869B;
+  text-align: center;
 }
 
 h1 {
   font-family: Roboto Slab, Roboto, serif;
 }
 
-#title {
+.title {
   font-family: Roboto Slab, Roboto, serif;
   text-align: center;
 }
 
-#description {
+.description {
   font-family: Roboto, sans-serif;
 }
 
-#para {
+.para {
   font-family: Raleway, sans-serif;
 }
 
-.banner {
-  text-align: center;
-}
-
 #navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #28869B;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #28869B;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 #navbar li {
-    float: left;
+  float: left;
 }
 
 #navbar a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 #navbar li a:hover {
-    background-color: #35acc4;
+  background-color: #35acc4;
 }
