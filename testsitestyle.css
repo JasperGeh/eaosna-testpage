@@ -1,9 +1,19 @@
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto-Slab" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
-h1 {
-  font-family: Lobster;
-} 
-#subtitle {
+#title {
+  font-family: Roboto-Slab;
+}
+
+#description {
   font-family: Roboto;
+}
+
+#para {
+  font-family: Raleway;
+}
+
+.banner {
+  width: 1000px;
 }
