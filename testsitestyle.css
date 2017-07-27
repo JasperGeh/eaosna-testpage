@@ -1,17 +1,15 @@
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Roboto-Slab" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab" rel="stylesheet">
 
 #title {
-  font-family: Roboto-Slab;
+  font-family: Roboto Slab, serif;
 }
 
 #description {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
 }
 
 #para {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
 }
 
 .banner {
