@@ -28,6 +28,8 @@ h1 {
 .title {
   font-family: Roboto Slab, Roboto, serif;
   text-align: center;
+  margin-top: 0px;
+  font-size: 24pt;
 }
 
 .description {
@@ -36,6 +38,7 @@ h1 {
 
 .para {
   font-family: Raleway, sans-serif;
+  font-size: 14pt;
 }
 
 #navbar ul {
@@ -62,4 +65,18 @@ h1 {
 
 #navbar li a:hover {
   background-color: #35acc4;
+}
+
+.picture-us {
+  width: 170px;
+  border-width: 8px;
+  border-color: #28869B;
+  border-style: solid;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.field {
+  margin: 3px;
+  padding: 3px;
 }
