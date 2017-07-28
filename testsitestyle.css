@@ -1,12 +1,18 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Slab" rel="stylesheet"
   > body {
   background-color: #F3F3EF;
+}
+p {
   text-align: center;
 }
 
 hr {
   color: white;
   border-width: 0px;
+}
+
+a {
+  color: #28869B;
 }
 
 .section {
@@ -39,6 +45,8 @@ h1 {
 .para {
   font-family: Raleway, sans-serif;
   font-size: 14pt;
+  width: 800px;
+  text-align: center;
 }
 
 #navbar ul {
@@ -53,6 +61,7 @@ h1 {
 
 #navbar li {
   float: left;
+  margin-left: ;
 }
 
 #navbar a {
@@ -79,4 +88,21 @@ h1 {
 .field {
   margin: 3px;
   padding: 3px;
+}
+li {
+  font-family: Raleway, sans-serif;
+  font-size: 14pt;
+  text-align: left;
+}
+
+.wrapper {
+  display: table-row;
+}
+.profile-picture {
+  display: table-cell;
+  margin-right: 10px;
+}
+.profile-details {
+  display: table-cell;
+  vertical-align: middle;
 }
